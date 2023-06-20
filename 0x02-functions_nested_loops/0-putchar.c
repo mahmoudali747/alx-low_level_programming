@@ -8,6 +8,9 @@
 
 	int main(void)
 	{
+		/*
+		 * iam just tatsting
+		 * */
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
