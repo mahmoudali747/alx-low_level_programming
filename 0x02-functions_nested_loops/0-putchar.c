@@ -1,7 +1,7 @@
 #include "main.h"
 	/**
 	 * main - print _putchar
-	 * is written by mahmoud_mohamed_ali_ahmed_ali_hassan _i hate betty documantion style
+	 * is written by mbah
 	 * Return: 0
 	 */
 
@@ -19,4 +19,4 @@
 	_putchar('\n');
 	return (0);
 	}
-
+`
