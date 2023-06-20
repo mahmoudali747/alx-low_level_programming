@@ -4,6 +4,7 @@
 
 	/**
 	 * print_alphabet : print all alphabet in lowercase
+	 * print_alphabet is afunction that print alphabe in lowercase
 	 */
 
 
