@@ -1,9 +1,12 @@
 #include "main.h"
 	/**
-	 * main - Entry point
-	 * Descraption: 'prints _putchar to stfout'
-	 * Return: always 0
-	 */
+ * main - Entry point
+ * 
+ * Description: 'the program's description'
+ * @parameter: describe the parameter
+ * 
+ * Return: Always 0 (Success)
+ */
 	int main(void)
 {
 	_putchar('_');
